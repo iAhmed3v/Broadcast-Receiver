@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastReceiver</string>
+    <string name="send_btn_text">Send Custom Broadcast</string>
+</resources>
